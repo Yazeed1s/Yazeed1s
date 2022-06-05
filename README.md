@@ -6,7 +6,6 @@
 
 <hr>
 
-
 ### 🔍 about me..
 - 🙋‍♂️ My name is Yazeed!
 - 🔬 I'm studying for a bachelor degree in Computer Science
@@ -14,10 +13,15 @@
 
 ### 🚀 Programming languages and tools I have worked with..
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySql" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.icons8.com/color/48/000000/powershell.png" alt="powershell" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="60" height="60"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="60" height="60"/> 
+    <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" alt="rust" width="60" height="60"/> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="60" height="60"/> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="60"/> 
+    
+</p>
+
 
 ### ⚡️ What am I doing? 
 - 👀 ramping up my skills on Springboot
