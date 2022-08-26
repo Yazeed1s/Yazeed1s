@@ -20,10 +20,5 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="60" height="60"/> 
 </p>
 
-
-### ⚡️ What am I doing? 
-- 👀 doing stuff for ArabianChain
-- 🔥 playing with linux tools
-
 ### 🚩 Next big moves!
 -  ??
